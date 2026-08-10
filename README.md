@@ -1,2 +1,2 @@
-# Anchore Security Data Collider Control Dataset
-This dataset contains the fragments from upstream security datasets that may be enriched within the curated dataset.  This serves as the base for comparison against to get the full set of Anchore changes to the upstream data.
+# Anchore Security Data Collider Enriched Dataset
+Anchore data curation happens here by enriching the base records from the control set.  The idea is that git will manage conflicts with upstream and we will resolve them as part of the merge process.
