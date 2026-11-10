@@ -1,7 +1,7 @@
 {
   "snapshots": [
     {
-      "commit": "c446fba0ab7940238f59cd6a3ce5b237fd0b41ad",
+      "commit": "dbf779b5492513ffcca55c2ee7e8fc1c2e3111e2",
       "repo": "https://github.com/anchore/dataset-security-cve5-upstream-snapshot"
     }
   ]
